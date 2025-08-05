@@ -33,7 +33,7 @@ EDA + визуализация + выводы по сезонности и от�
 ## 🏅 Сертификаты
 
 - [Интерактивный тренажер по SQL, 2023](https://github.com/nasya28/nasya/blob/main/stepik-certificate-63054-e2af2cf.pdf)
-- 
+- ["Поколение Python":курс для начинающих](https://github.com/nasya28/nasya/blob/main/stepik-certificate-58852-de7dcfc.pdf)
 
 ---
 
