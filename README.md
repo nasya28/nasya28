@@ -29,7 +29,9 @@ EDA + визуализация + выводы по сезонности и от�
 🔗 [GitHub](ССЫЛКА)
 
 ---
-### [3. Визуализация DataLens] (https://datalens.yandex.cloud/tfxp5kjhismyf)
+### 3. Визуализация 
+[DataLens] (https://datalens.yandex.cloud/tfxp5kjhismyf)
+
 ---
 ## Образование
 
