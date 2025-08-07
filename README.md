@@ -30,7 +30,7 @@ EDA + визуализация + выводы по сезонности и от�
 
 ---
 ### 3. Визуализация 
-[DataLens] (https://datalens.yandex.cloud/tfxp5kjhismyf)
+- [DataLens](https://datalens.yandex.cloud/tfxp5kjhismyf)
 
 ---
 ## Образование
