@@ -43,6 +43,7 @@ EDA + визуализация
 
 - [Интерактивный тренажер по SQL, 2023](https://github.com/nasya28/nasya/blob/main/stepik-certificate-63054-e2af2cf.pdf)
 - ["Поколение Python":курс для начинающих](https://github.com/nasya28/nasya/blob/main/stepik-certificate-58852-de7dcfc.pdf)
+- [Microsoft Excel с НУЛЯ](https://github.com/nasya28/nasya28/blob/main/stepik-certificate-159003-d9fc819.pdf)
 - [Теория вероятностей]()
 - [Комбинаторика для начинающих]()
 
